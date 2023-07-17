@@ -2,7 +2,7 @@
 
 <span>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b1633f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!+My+name+is+Caio+Cesar.;I'm+from+Brazil+and+31+years+old!;Systems+analysis+and+development+student;Front+and+Developer!;Be+Welcome!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b1633f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!+My+name+is+Caio+Cesar.;I'm+from+Brazil+and+31+years+old!;Systems+analysis+and+development+student;Front+end+Developer!;Be+Welcome!)](https://git.io/typing-svg)
 </span>
 
 
@@ -49,7 +49,7 @@
  </div>
  
   <h4> Mais informações: ⁣</h4>
- <a href="https://www.linkedin.com/in/caio-cesar-586b94165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/caio-cesar-santos-586b94165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
   
 ![](https://komarev.com/ghpvc/?username=CaioCesarSantos-github-username)
