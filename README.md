@@ -16,7 +16,7 @@
  <div style="display: inline_block"><br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,ts,,figma,git,github,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,ts,,vscode,github,git,figma,visualstudio" />
   </a>
 </p>       
 
@@ -51,5 +51,5 @@
   <h4> Mais informações: ⁣</h4>
  <a href="https://www.linkedin.com/in/caio-cesar-santos-586b94165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-  
-![](https://komarev.com/ghpvc/?username=CaioCesarSantos-github-username)
+  ![](https://komarev.com/ghpvc/?username=CaioCesarSantos-github-username)
+
