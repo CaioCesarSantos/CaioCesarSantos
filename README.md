@@ -2,7 +2,7 @@
 
 <span>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b1633f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!+My+name+is+Caio+Cesar.;I'm+from+Brazil+and+31+years+old!;Systems+analysis+and+development+student;Front+end+Developer!;Be+Welcome!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b1633f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!+My+name+is+Caio+Cesar.;I'm+from+Brazil+and+31+years+old!;Systems+analysis+and+development+student;Front+and+Developer!;Be+Welcome!)](https://git.io/typing-svg)
 </span>
 
 
