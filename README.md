@@ -2,14 +2,14 @@
 
 <span>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b1633f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!+My+name+is+Caio+Cesar.;I'm+from+Brazil+and+31+years+old!;Systems+analysis+and+development+student;Front+end+Developer!;Be+Welcome!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b1633f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!+My+name+is+Caio+Cesar.;Be+welcome+to+my+repository;Front+end+Developer!)](https://git.io/typing-svg)
 </span>
 
 
   
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
- Sou desenvolvedor 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 apaixonado por tecnologia, tenho experiência com programação, desenvolvimento de sistemas web, manutenção e aplicação desses sistemas em empresas de médio e grande porte. Tenho um bom desempenho em equipes, que faz melhora a qualidade da documentação e a resolver problemas em seus projetos
+ Sou desenvolvedor 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 apaixonado por tecnologia, tenho experiência com programação, desenvolvimento de sistemas web, manutenção e aplicação desses sistemas em empresas de médio e grande porte. Tenho um bom desempenho em equipes, que faz melhora a qualidade da documentação e a resolver problemas em seus projetos.
 
  Nesta plataforma, você terá acesso a alguns projetos realizados durante: estudos, trajetória profissional e pessoal.
 
