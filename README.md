@@ -16,7 +16,7 @@
  <div style="display: inline_block"><br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,ts,,vscode,github,git,figma,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,,vscode,github,git,visualstudio" />
   </a>
 </p>       
 
@@ -41,13 +41,13 @@
   </a>
  </p>
  
- <h4> Entre em contato: ⁣</h4>
+ <h3> Entre em contato: ⁣</h3>
  <div >
 <a href= "https://wa.me/5511948011665" > <img width=30px; align="left"  src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-whatsapp-mobile-software-icon-png-image_6315991.png"/>
  </a>
- <a href="https://criarmeulink.com.br/u/1156763147" ><img width=33px; src="https://portal.ifba.edu.br/barreiras/imagens-campus-barreiras/icon-telefone.png/@@images/24174166-eebf-419e-97eb-1826d6dcf5ea.png"></a>
  </div>
- 
+ <br>
+   
   <h4> Mais informações: ⁣</h4>
  <a href="https://www.linkedin.com/in/caio-cesar-santos-586b94165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
